@@ -1,0 +1,225 @@
+@media screen and (max-width: 400px) {
+  div.nav-bar {
+    padding: 1rem 3rem;
+  }
+  
+  div.logo {
+      font-size: 1.5rem;
+      color: #bcc3c7;
+      margin-right: 2rem;
+  }
+  ul.nav-links{
+    flex-direction: column;
+  }
+  ul li {
+    margin: 10px 0;
+    list-style: none;
+    font-size: 0.8rem;
+  }
+  
+  ul li a {
+    text-decoration: none;
+    color: #88949B;
+    padding: 1vw;
+  }
+  div .hero-section {
+    padding: 1rem;
+  }
+  div.hero-content-heading h3{
+    font-size: 1rem;
+  }
+  div.hero-content-heading p {
+    padding-top: 0.4rem;
+    font-size: 0.4rem;
+    letter-spacing: normal;
+  }
+  div.hero-content-btn a {
+    padding: 7px 15px;
+    font-size: 0.7rem;
+  }
+  div.hero-background {
+    padding: 3rem;
+  }
+  div.background {
+    width: 650px;
+    height:250px
+  }
+  
+  div.background h4{
+    padding: 0.5rem;
+    font-size: 0.6rem;
+    
+  }
+  div.background p {
+    font-size: 0.7rem;
+    padding-left: 1rem;
+  }
+  div.hero-background-pos {
+    display: none;
+  }
+  
+  div.snapshot-team h2 {
+  font-size: 1rem;
+  }
+  
+  div.snapshot-team p{
+    font-size: 0.9rem;
+    padding: 1.3rem 1.8rem;
+  }
+  div.snapshot-box-content {
+    display: block;
+  }
+  
+  div.gallery-section {
+      padding: 0.8rem;
+    }
+  
+    div.img img {
+      width: 290px;
+      height: 1200px;
+    }
+  
+    div.gallery-content h4 {
+      font-size: 1rem;
+    }
+    div.gallery-content p {
+      font-size: 0.6rem;
+    }
+  
+    div.footer {
+      padding: 0.8rem;
+    }
+    div.footer-content h4 {
+      font-size: 0.9rem;
+    }
+    div.footer-content p {
+      font-size: 0.5rem;
+      padding-top: 0.4rem;
+    }
+    div.footer-input {
+      padding-top: 1.2rem;
+    }
+    input[type="text"],input[type="email"]  {
+      width: 25%;
+      padding: 7px 10px;
+      font-size: 0.5rem;
+    }
+    div.footer-btn a {
+      font-size: 0.4rem;
+      padding: 5px 25px;
+    }
+    div.footer h6 {
+      font-size: 0.4rem;
+      padding-top: 2rem;
+    }
+    
+}
+@media screen and (max-width: 768px) {
+div.nav-bar {
+  padding: 1rem 3rem;
+}
+
+div.logo {
+    font-size: 1.5rem;
+    color: #bcc3c7;
+    margin-right: 2rem;
+}
+ul.nav-links{
+  flex-direction: column;
+}
+ul li {
+  margin: 10px 0;
+  list-style: none;
+  font-size: 0.8rem;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #88949B;
+  padding: 1vw;
+}
+div .hero-section {
+  padding: 4rem;
+}
+div.hero-content-heading h3{
+  font-size: 1.5rem;
+}
+div.hero-content-heading p {
+  font-size: 0.8rem;
+}
+div.hero-content-btn a {
+  padding: 7px 20px;
+  font-size: 0.7rem;
+}
+div.hero-background {
+  padding: 6rem;
+}
+
+div.background h4{
+  padding: 1rem;
+  font-size: 1rem;
+  
+}
+div.background p {
+  font-size: 0.7rem;
+  padding-left: 1rem;
+}
+div.hero-background-pos {
+  display: none;
+}
+
+div.snapshot-team h2 {
+font-size: 1.3rem;
+}
+
+div.snapshot-team p{
+  font-size: 1rem;
+  padding: 1.5rem 2rem;
+}
+div.snapshot-box-content {
+  display: block;
+}
+
+div.gallery-section {
+    padding: 1rem;
+  }
+
+  div.img img {
+    width: 300px;
+    height: 150px;
+  }
+
+  div.gallery-content h4 {
+    font-size: 1.2rem;
+  }
+  div.gallery-content p {
+    font-size: 0.8rem;
+  }
+
+  div.footer {
+    padding: 1rem;
+  }
+  div.footer-content h4 {
+    font-size: 1rem;
+  }
+  div.footer-content p {
+    font-size: 0.8rem;
+    padding-top: 0.6rem;
+  }
+  div.footer-input {
+    padding-top: 1.5rem;
+  }
+  input[type="text"],input[type="email"]  {
+    width: 30%;
+    padding: 7px 15px;
+    font-size: 0.8rem;
+  }
+  div.footer-btn a {
+    font-size: 0.7rem;
+    padding: 8px 35px;
+  }
+  div.footer h6 {
+    font-size: 0.8rem;
+    padding-top: 4.5rem;
+  }
+}
